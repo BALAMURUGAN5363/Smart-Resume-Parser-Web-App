@@ -1,0 +1,134 @@
+Page 1:
+Invoice Invoice Number INV-3337 From: DEMO - Sliced Invoices Order Number 12345 Suite 5A-1204 Invoice Date January 25, 2016 123 Somewhere Street Due Date January 31, 2016 Your City AZ 12345 Total Due $93.50 admin@slicedinvoices.com To: Test Business 123 Somewhere St d Melbourne, VIC 3000 test@test.com i Hrs/Qty Service Rate/Price Adjust Sub Total a Web Design 1.00 $85.00 0.00% $85.00 This is a sample description... P Sub Total $85.00 Tax $8.50 Total $93.50 ANZ Bank ACC # 1234 1234 BSB # 4321 432 Payment is due within 30 days from date of invoice. Late payment is subject to fees of 5% per month. Thanks for choosing DEMO - Sliced Invoices | admin@slicedinvoices.com Page 1/1
+
+Page 2:
+CPB Software (Germany) GmbH - Im Bruch 3 - 63897 Miltenberg/Main Musterkunde AG Mr. John Doe Musterstr. 23 12345 Musterstadt Name: Stefanie Müller Phone: +49 9371 9786-0 Invoice WMACCESS Internet VAT No. DE199378386 Invoice No Customer No Invoice Period Date 123100401 12345 01.02.2024 - 29.02.2024 1. März 2024 Amount Service Description quantity Total Amount -without VAT- Basic Fee wmView 130,00 € 1 130,00 € Basis fee for additional user accounts 10,00 € 0 0,00 € Basic Fee wmPos 50,00 € 0 0,00 € Basic Fee wmGuide 1.000,00 € 0 0,00 € Change of user accounts 10,00 € 0 0,00 € Transaction Fee T1 0,58 € 14 8,12 € Transaction Fee T2 0,70 € 0 0,00 € Transaction Fee T3 1,50 € 162 243,00 € Transaction Fee T4 0,50 € 0 0,00 € Transaction Fee T5 0,80 € 0 0,00 € Transaction Fee T6 1,80 € 0 0,00 € Transaction Fee G1 0,30 € 0 0,00 € Transaction Fee G2 0,30 € 0 0,00 € Transaction Fee G3 0,40 € 0 0,00 € Transaction Fee G4 0,40 € 0 0,00 € Transaction Fee G5 0,30 € 0 0,00 € Transaction Fee G6 0,30 € 0 0,00 € Total 381,12 € VAT 19 % 72,41 € Gross Amount incl. VAT 453,53 € Terms of Payment: Immediate payment without discount. Any bank charges must be paid by the invoice recipient. Bank fees at our expense will be charged to the invoice recipient! Please credit the amount invoiced to IBAN DE29 1234 5678 9012 3456 78 | BIC GENODE51MIC (SEPA Credit Transfer) This invoice is generated automatically and will not be signed
+
+Page 3:
+Invoice Details Period: 01.02.2024 to 29.02.2024 Unit: Musterkunde AG 12345 Request sections: T1: T2: T3: T4: T5: T6: G1: G2: G3: G4: G5: G6: Amount in Euro: 0,58 0,70 1,50 0,50 0,80 1,80 0,30 0,30 0,40 0,40 0,30 0,30 user-account-1 10 0 99 0 0 0 0 0 0 0 0 0 154,30 € user-account-2 4 0 63 0 0 0 0 0 0 0 0 0 96,82 € Transaction Fee Seg T1: T2: T3: T4: T5: T6: G1: G2: G3: G4: G5: G6: Queries in Total: 14 0 162 0 0 0 0 0 0 0 0 0 Total in Euro: 8,12 € 0,00 € 243,00 € 0,00 € 0,00 € 0,00 € 0,00 € 0,00 € 0,00 € 0,00 € 0,00 € 0,00 € 251,12 € The explanation of the query fee categories (T1 to T6 and G1 to G6) can be found on our website: https://www.wmaccess.com/abfragekategorien
+
+Page 4:
+Invoice Details for wmView Query Reference Period: 01.02.2024 to 29.02.2024 Unit: Musterkunde AG 12345 wmview, wmProfile and User Profiles Query Segments: Query Reference: T1: T2: T3: T4: T5: T6: *Not specified* 4 0 9 0 0 0 15,82 € AZR/31/27439 0 0 12 0 0 0 18,00 € CCL/3715 0 0 4 0 0 0 6,00 € CRS/28432 5 0 36 0 0 0 56,90 € Cs/52113 0 0 19 0 0 0 28,50 € GS 32090 1 0 7 0 0 0 11,08 € Kpi/22695 2 0 6 0 0 0 10,16 € PG 7772 0 0 11 0 0 0 16,50 € Rjn/11138 0 0 15 0 0 0 22,50 € SF-M 596/99-08 0 0 5 0 0 0 7,50 € Ttrb/17885 1 0 23 0 0 0 35,08 € WPN:24791 1 0 4 0 0 0 6,58 € Wwt/15658 0 0 11 0 0 0 16,50 € Price for each Query in Euro: 0,58 0,70 1,50 0,50 0,80 1,80
+
+Page 5:
+Sample PDF for Data Extraction Introduction to the Sample PDF This PDF contains a combination of text, tables, metadata, and images to test various data extraction techniques. The following sections demonstrate each element. Table Example: Step | Task | Status 1 | Text | Completed 2 | Tables | Completed 3 | Images | Pending Page 1
+
+Page 6:
+Sample PDF for Data Extraction Sample Image Page 2
+
+Page 7:
+SuperStore INVOICE # 32460 Date: Mar 02 2012 Bill To: Ship To: Ship Mode: Standard Class Anne Pryor 10035, New York City, New York, United Balance Due: $323.98 States Item Quantity Rate Amount Ibico Laser Imprintable Binding System Covers 3 $125.76 $377.28 Binders, Office Supplies, OFF-BI-4831 Subtotal: $377.28 Discount (20%): $75.46 Shipping: $22.16 Total: $323.98 Notes: Thanks for your business! Terms: Order ID : CA-2012-AP10720140-40970
+
+Page 8:
+SuperStore INVOICE # 32461 Date: Mar 02 2012 Bill To: Ship To: Ship Mode: Standard Class Anne Pryor 10035, New York City, New York, United Balance Due: $103.76 States Item Quantity Rate Amount Cardinal HOLDit! Binder Insert Strips,Extra Strips 5 $25.32 $126.60 Binders, Office Supplies, OFF-BI-3732 Subtotal: $126.60 Discount (20%): $25.32 Shipping: $2.48 Total: $103.76 Notes: Thanks for your business! Terms: Order ID : CA-2012-AP10720140-40970
+
+Page 9:
+SuperStore INVOICE # 29368 Date: Jun 05 2012 Bill To: Ship To: Ship Mode: Standard Class Annie Thurman Brisbane, Queensland, Balance Due: $7,868.63 Australia Item Quantity Rate Amount Hewlett Wireless Fax, Color 5 $1,717.34 $8,586.68 Copiers, Technology, TEC-CO-4590 Subtotal: $8,586.68 Discount (10%): $858.67 Shipping: $140.62 Total: $7,868.63 Notes: Thanks for your business! Terms: Order ID : IN-2012-AT107357-41065
+
+Page 10:
+INVOICE Date: Jun 5, 2023 Bill To: Balance Due: $0.00 Item Quantity Rate Amount Total: $0.00
+
+Page 11:
+SuperStore INVOICE # 37563 Date: Nov 02 2012 Bill To: Ship To: Ship Mode: Standard Class Annie Thurman 37211, Nashville, Tennessee, United Balance Due: $1,047.71 States Item Quantity Rate Amount Xerox 1884 9 $143.86 $1,294.70 Paper, Office Supplies, OFF-PA-6433 Subtotal: $1,294.70 Discount (20%): $258.94 Shipping: $11.95 Total: $1,047.71 Notes: Thanks for your business! Terms: Order ID : CA-2012-AT10735140-41215
+
+Page 12:
+SuperStore INVOICE # 39757 Date: Aug 29 2012 Bill To: Ship To: Ship Mode: Standard Class Annie Thurman 6010, Bristol, Connecticut, United Balance Due: $128.51 States Item Quantity Rate Amount Wilson Jones Standard D-Ring Binders 5 $25.30 $126.50 Binders, Office Supplies, OFF-BI-6410 Subtotal: $126.50 Shipping: $2.01 Total: $128.51 Notes: Thanks for your business! Terms: Order ID : CA-2012-AT10735140-41150
+
+Page 13:
+SuperStore INVOICE # 39758 Date: Aug 29 2012 Bill To: Ship To: Ship Mode: Standard Class Annie Thurman 6010, Bristol, Connecticut, United Balance Due: $296.36 States Item Quantity Rate Amount Fellowes Bankers Box Stor/Drawer Steel Plus 3 $95.94 $287.82 Storage, Office Supplies, OFF-ST-4245 Subtotal: $287.82 Shipping: $8.54 Total: $296.36 Notes: Thanks for your business! Terms: Order ID : CA-2012-AT10735140-41150
+
+Page 14:
+SuperStore INVOICE # 33729 Date: Mar 24 2012 Bill To: Ship To: Ship Mode: Standard Class Annie Zypern 10009, New York City, New York, United Balance Due: $2,341.18 States Item Quantity Rate Amount Iceberg Nesting Folding Chair, 19w x 6d x 43h 7 $366.79 $2,567.50 Chairs, Furniture, FUR-CH-4840 Subtotal: $2,567.50 Discount (10%): $256.75 Shipping: $30.43 Total: $2,341.18 Notes: Thanks for your business! Terms: Order ID : CA-2012-AZ10750140-40992
+
+Page 15:
+SuperStore INVOICE # 36397 Date: Mar 16 2012 Bill To: Ship To: Ship Mode: Same Day Annie Zypern 75217, Dallas, Texas, United States Balance Due: $8.25 Item Quantity Rate Amount Newell 333 2 $4.45 $8.90 Art, Office Supplies, OFF-AR-5312 Subtotal: $8.90 Discount (20%): $1.78 Shipping: $1.13 Total: $8.25 Notes: Thanks for your business! Terms: Order ID : CA-2012-AZ10750140-40984
+
+Page 16:
+SuperStore INVOICE # 39387 Date: Dec 06 2012 Bill To: Ship To: Ship Mode: Standard Class Ann Steele 98103, Seattle, Washington, United Balance Due: $1,909.20 States Item Quantity Rate Amount Advantus Rolling Drawer Organizers 7 $269.36 $1,885.52 Storage, Office Supplies, OFF-ST-3058 Subtotal: $1,885.52 Shipping: $23.68 Total: $1,909.20 Notes: Thanks for your business! Terms: Order ID : CA-2012-AS10630140-41249
+
+Page 17:
+SuperStore INVOICE # 51179 Date: Jul 06 2012 Bill To: Ship To: Ship Mode: Second Class Ann Steele Lagos, Lagos, Nigeria Balance Due: $946.86 Item Quantity Rate Amount Hamilton Beach Stove, Silver 4 $651.71 $2,606.83 Appliances, Office Supplies, OFF-AP-4507 Subtotal: $2,606.83 Discount (70%): $1,824.78 Shipping: $164.81 Total: $946.86 Notes: Thanks for your business! Terms: Order ID : NI-2012-AS63095-41096
+
+Page 18:
+SuperStore INVOICE # 35317 Date: Jun 21 2012 Bill To: Ship To: Ship Mode: Standard Class Anna Andreadi 19013, Chester, Pennsylvania, United Balance Due: $376.18 States Item Quantity Rate Amount Padded Folding Chairs, Black, 4/Carton 3 $170.06 $510.17 Chairs, Furniture, FUR-CH-5536 Subtotal: $510.17 Discount (30%): $153.05 Shipping: $19.06 Total: $376.18 Notes: Thanks for your business! Terms: Order ID : CA-2012-AA10645140-41081
+
+Page 19:
+SuperStore INVOICE # 35318 Date: Jun 21 2012 Bill To: Ship To: Ship Mode: Standard Class Anna Andreadi 19013, Chester, Pennsylvania, United Balance Due: $157.37 States Item Quantity Rate Amount Panasonic Kx-TS550 3 $82.78 $248.35 Phones, Technology, TEC-PH-5566 Subtotal: $248.35 Discount (40%): $99.34 Shipping: $8.36 Total: $157.37 Notes: Thanks for your business! Terms: Order ID : CA-2012-AA10645140-41081
+
+Page 20:
+SuperStore INVOICE # 35319 Date: Jun 21 2012 Bill To: Ship To: Ship Mode: Standard Class Anna Andreadi 19013, Chester, Pennsylvania, United Balance Due: $3,077.05 States Item Quantity Rate Amount Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back 5 $853.93 $4,269.65 Chairs, Furniture, FUR-CH-4650 Subtotal: $4,269.65 Discount (30%): $1,280.90 Shipping: $88.30 Total: $3,077.05 Notes: Thanks for your business! Terms: Order ID : CA-2012-AA10645140-41081
+
+Page 21:
+SuperStore INVOICE # 39300 Date: Nov 30 2012 Bill To: Ship To: Ship Mode: First Class Anna Andreadi 1852, Lowell, Massachusetts, Balance Due: $606.34 United States Item Quantity Rate Amount Cisco IP Phone 7961G VoIP phone - Dark gray 2 $271.90 $543.80 Phones, Technology, TEC-PH-3795 Subtotal: $543.80 Shipping: $62.54 Total: $606.34 Notes: Thanks for your business! Terms: Order ID : CA-2012-AA10645140-41243
+
+Page 22:
+INVOICE Date: Jun 5, 2023 Bill To: Balance Due: $0.00 Item Quantity Rate Amount Total: $0.00
+
+Page 23:
+SuperStore INVOICE # 39302 Date: Nov 30 2012 Bill To: Ship To: Ship Mode: First Class Anna Andreadi 1852, Lowell, Massachusetts, Balance Due: $20.91 United States Item Quantity Rate Amount Ultra Door Push Plate 2 $9.82 $19.64 Furnishings, Furniture, FUR-FU-6331 Subtotal: $19.64 Shipping: $1.27 Total: $20.91 Notes: Thanks for your business! Terms: Order ID : CA-2012-AA10645140-41243
+
+Page 24:
+SuperStore INVOICE # 36194 Date: Oct 14 2012 Bill To: Ship To: Ship Mode: First Class Anna Chung 44134, Parma, Ohio, United States Balance Due: $309.48 Item Quantity Rate Amount Global Italian Leather Office Chair 2 $183.37 $366.74 Chairs, Furniture, FUR-CH-4413 Subtotal: $366.74 Discount (30%): $110.02 Shipping: $52.76 Total: $309.48 Notes: Thanks for your business! Terms: Order ID : US-2012-AC10660140-41196
+
+Page 25:
+SuperStore INVOICE # 36195 Date: Oct 14 2012 Bill To: Ship To: Ship Mode: First Class Anna Chung 44134, Parma, Ohio, United States Balance Due: $16.57 Item Quantity Rate Amount Xerox 1897 2 $7.97 $15.94 Paper, Office Supplies, OFF-PA-6447 Subtotal: $15.94 Discount (20%): $3.19 Shipping: $3.82 Total: $16.57 Notes: Thanks for your business! Terms: Order ID : US-2012-AC10660140-41196
+
+Page 26:
+SuperStore INVOICE # 42837 Date: Sep 01 2012 Bill To: Ship To: Ship Mode: Same Day Anna Gayman Vienna, Vienna, Austria Balance Due: $1,205.04 Item Quantity Rate Amount Hon Conference Table, Fully Assembled 1 $922.95 $922.95 Tables, Furniture, FUR-TA-4646 Subtotal: $922.95 Shipping: $282.09 Total: $1,205.04 Notes: Thanks for your business! Terms: Order ID : AU-2012-AG6758-41153
+
+Page 27:
+SuperStore INVOICE # 40216 Date: Apr 01 2012 Bill To: Ship To: Ship Mode: Standard Class Anna Häberlin 23464, Virginia Beach, Virginia, Balance Due: $366.20 United States Item Quantity Rate Amount Luxo Adjustable Task Clamp Lamp 2 $177.68 $355.36 Furnishings, Furniture, FUR-FU-5158 Subtotal: $355.36 Shipping: $10.84 Total: $366.20 Notes: Thanks for your business! Terms: Order ID : CA-2012-AH10690140-41000
+
+Page 28:
+SuperStore INVOICE # 19331 Date: Oct 11 2012 Bill To: Ship To: Ship Mode: Standard Class Anne McFarland Trier, Rhineland- Palatinate, Germany Balance Due: $8,832.67 Item Quantity Rate Amount Nokia Signal Booster, VoIP 8 $1,092.72 $8,741.76 Phones, Technology, TEC-PH-5352 Subtotal: $8,741.76 Shipping: $90.91 Total: $8,832.67 Notes: Thanks for your business! Terms: Order ID : IT-2012-AM1070548-41193
+
+Page 29:
+SuperStore INVOICE # 35500 Date: Oct 30 2012 Bill To: Ship To: Ship Mode: Second Class Anne McFarland 2920, Cranston, Rhode Island, United Balance Due: $248.51 States Item Quantity Rate Amount Lumber Crayons 5 $49.25 $246.25 Art, Office Supplies, OFF-AR-5156 Subtotal: $246.25 Shipping: $2.26 Total: $248.51 Notes: Thanks for your business! Terms: Order ID : CA-2012-AM10705140-41212
+
+Page 30:
+INVOICE Date: Jun 5, 2023 Bill To: Balance Due: $0.00 Item Quantity Rate Amount Total: $0.00
+
+Page 31:
+SuperStore INVOICE # 37312 Date: Apr 05 2012 Bill To: Ship To: Ship Mode: Standard Class Andy Yotov 90049, Los Angeles, California, United Balance Due: $186.69 States Item Quantity Rate Amount Tenex B1-RE Series Chair Mats for Low Pile Carpets 2 $91.96 $183.92 Furnishings, Furniture, FUR-FU-6227 Subtotal: $183.92 Shipping: $2.77 Total: $186.69 Notes: Thanks for your business! Terms: Order ID : CA-2012-AY10555140-41004
+
+Page 32:
+SuperStore INVOICE # 37313 Date: Apr 05 2012 Bill To: Ship To: Ship Mode: Standard Class Andy Yotov 90049, Los Angeles, California, United Balance Due: $236.12 States Item Quantity Rate Amount C-Line Cubicle Keepers Polyproplyene Holder With Velcro 7 $33.11 $231.77 Backings Furnishings, Furniture, FUR-FU-3829 Subtotal: $231.77 Shipping: $4.35 Total: $236.12 Notes: Thanks for your business! Terms: Order ID : CA-2012-AY10555140-41004
+
+Page 33:
+SuperStore INVOICE # 37314 Date: Apr 05 2012 Bill To: Ship To: Ship Mode: Standard Class Andy Yotov 90049, Los Angeles, California, United Balance Due: $60.43 States Item Quantity Rate Amount Xerox 211 3 $19.44 $58.32 Paper, Office Supplies, OFF-PA-6574 Subtotal: $58.32 Shipping: $2.11 Total: $60.43 Notes: Thanks for your business! Terms: Order ID : CA-2012-AY10555140-41004
+
+Page 34:
+SuperStore INVOICE # 37315 Date: Apr 05 2012 Bill To: Ship To: Ship Mode: Standard Class Andy Yotov 90049, Los Angeles, California, United Balance Due: $57.76 States Item Quantity Rate Amount Xerox 194 1 $55.48 $55.48 Paper, Office Supplies, OFF-PA-6494 Subtotal: $55.48 Shipping: $2.28 Total: $57.76 Notes: Thanks for your business! Terms: Order ID : CA-2012-AY10555140-41004
+
+Page 35:
+SuperStore INVOICE # 39986 Date: Dec 25 2012 Bill To: Ship To: Ship Mode: Standard Class Andy Yotov 19140, Philadelphia, Pennsylvania, United Balance Due: $20.82 States Item Quantity Rate Amount Eldon Spacemaker Box, Quick-Snap Lid, Clear 3 $8.02 $24.05 Art, Office Supplies, OFF-AR-4099 Subtotal: $24.05 Discount (20%): $4.81 Shipping: $1.58 Total: $20.82 Notes: Thanks for your business! Terms: Order ID : CA-2012-AY10555140-41268
+
+Page 36:
+SuperStore INVOICE # 8876 Date: Apr 20 2012 Bill To: Ship To: Ship Mode: First Class Anemone Ratner Tegucigalpa, Francisco Morazán, Balance Due: $2,442.62 Honduras Item Quantity Rate Amount Cisco Signal Booster, with Caller ID 8 $485.86 $3,886.85 Phones, Technology, TEC-PH-3803 Subtotal: $3,886.85 Discount (40%): $1,554.74 Shipping: $110.51 Total: $2,442.62 Notes: Thanks for your business! Terms: Order ID : US-2012-AR1057055-41019
+
+Page 37:
+SuperStore INVOICE # 12988 Date: Jun 07 2012 Bill To: Ship To: Ship Mode: First Class Angele Hood Ghent, East Flanders, Belgium Balance Due: $11,655.80 Item Quantity Rate Amount Motorola Headset, with Caller ID 12 $956.88 $11,482.56 Phones, Technology, TEC-PH-5254 Subtotal: $11,482.56 Shipping: $173.24 Total: $11,655.80 Notes: Thanks for your business! Terms: Order ID : ES-2012-AH1058514-41067
+
+Page 38:
+SuperStore INVOICE # 35601 Date: Oct 25 2012 Bill To: Ship To: Ship Mode: Second Class Angele Hood 98105, Seattle, Washington, United Balance Due: $259.18 States Item Quantity Rate Amount Tenex Chairmats For Use With Carpeted Floors 4 $63.92 $255.68 Furnishings, Furniture, FUR-FU-6234 Subtotal: $255.68 Shipping: $3.50 Total: $259.18 Notes: Thanks for your business! Terms: Order ID : CA-2012-AH10585140-41207
+
+Page 39:
+SuperStore INVOICE # 35602 Date: Oct 25 2012 Bill To: Ship To: Ship Mode: Second Class Angele Hood 98105, Seattle, Washington, United Balance Due: $1,581.63 States Item Quantity Rate Amount Vtech CS6719 5 $383.96 $1,919.80 Phones, Technology, TEC-PH-6347 Subtotal: $1,919.80 Discount (20%): $383.96 Shipping: $45.79 Total: $1,581.63 Notes: Thanks for your business! Terms: Order ID : CA-2012-AH10585140-41207
+
+Page 40:
+SuperStore INVOICE # 35427 Date: Nov 17 2012 Bill To: Ship To: Ship Mode: Standard Class Ann Blume 60623, Chicago, Illinois, United States Balance Due: $16.33 Item Quantity Rate Amount GBC White Gloss Covers, Plain Front 5 $14.48 $72.40 Binders, Office Supplies, OFF-BI-4377 Subtotal: $72.40 Discount (80%): $57.92 Shipping: $1.85 Total: $16.33 Notes: Thanks for your business! Terms: Order ID : CA-2012-AB10600140-41230
+
+Page 41:
+SuperStore INVOICE # 35513 Date: Feb 17 2013 Bill To: Ship To: Ship Mode: Standard Class Ann Blume 90004, Los Angeles, California, United Balance Due: $29.42 States Item Quantity Rate Amount Smead Alpha-Z Color-Coded Second Alphabetical Labels and 3 $9.24 $27.72 Starter Set Labels, Office Supplies, OFF-LA-6022 Subtotal: $27.72 Shipping: $1.70 Total: $29.42 Notes: Thanks for your business! Terms: Order ID : CA-2013-AB10600140-41322
+
+Page 42:
+SuperStore INVOICE # 49366 Date: Jan 24 2012 Bill To: Ship To: Ship Mode: Same Day Ann Blume Tallinn, Harjumaa, Estonia Balance Due: $694.54 Item Quantity Rate Amount Breville Stove, Black 1 $560.97 $560.97 Appliances, Office Supplies, OFF-AP-3578 Subtotal: $560.97 Shipping: $133.57 Total: $694.54 Notes: Thanks for your business! Terms: Order ID : EN-2012-AB60042-40932
+
+Page 43:
+SuperStore INVOICE # 49367 Date: Jan 24 2012 Bill To: Ship To: Ship Mode: Same Day Ann Blume Tallinn, Harjumaa, Estonia Balance Due: $2,840.29 Item Quantity Rate Amount Cisco Smart Phone, Full Size 2 $1,302.78 $2,605.56 Phones, Technology, TEC-PH-3806 Subtotal: $2,605.56 Shipping: $234.73 Total: $2,840.29 Notes: Thanks for your business! Terms: Order ID : EN-2012-AB60042-40932
+
+Page 44:
+SuperStore INVOICE # 42692 Date: Sep 30 2012 Bill To: Ship To: Ship Mode: Standard Class Ann Chong Nairobi, Nairobi, Kenya Balance Due: $4,159.60 Item Quantity Rate Amount SanDisk Router, Erganomic 4 $1,016.64 $4,066.56 Accessories, Technology, TEC-AC-5895 Subtotal: $4,066.56 Shipping: $93.04 Total: $4,159.60 Notes: Thanks for your business! Terms: Order ID : KE-2012-AC61569-41182
+
+Page 45:
+SuperStore INVOICE # 33707 Date: Jul 31 2012 Bill To: Ship To: Ship Mode: Standard Class Ann Steele 19120, Philadelphia, Pennsylvania, United Balance Due: $10.86 States Item Quantity Rate Amount Acco Clips to Go Binder Clips, 24 Clips in Two Sizes 2 $5.68 $11.36 Fasteners, Office Supplies, OFF-FA-2903 Subtotal: $11.36 Discount (20%): $2.27 Shipping: $1.77 Total: $10.86 Notes: Thanks for your business! Terms: Order ID : CA-2012-AS10630140-41121
