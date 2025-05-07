@@ -1,0 +1,57 @@
+<div class="app-container">
+    <header>
+      <div class="logo-title">
+        <h1>📄 Smart Resume Parser</h1>
+      </div>
+      <nav>
+        <button class="nav-btn" (click)="navigateToHistory()">
+          📜 History
+        </button>
+        <button class="nav-btn" *ngIf="!isLoggedIn" (click)="navigateToLogin()">
+          Login
+        </button>
+        <button class="nav-btn" *ngIf="!isLoggedIn" (click)="navigateToSignup()">
+          Sign Up
+        </button>
+        <button class="nav-btn" *ngIf="isLoggedIn" (click)="logout()">
+          Logout
+        </button>
+      </nav>
+    </header>
+  
+    <main>
+      <div class="upload-container">
+        <h2>Select a Resume</h2>
+        <div class="file-input-wrapper">
+          <input 
+            type="file" 
+            accept=".pdf,.png,.jpg,.jpeg" 
+            (change)="storeSelectedFile($event)"
+            id="fileInput"
+            style="display: none;"
+          />
+          <label for="fileInput" class="file-label">
+            Choose Resume
+          </label>
+          <span *ngIf="selectedFile">Selected: {{selectedFile.name}}</span>
+        </div>
+        <button 
+          class="extract-btn" 
+          [disabled]="!selectedFile"
+          (click)="onExtractClicked()"
+        >
+          Parse Resume
+        </button>
+      </div>
+  
+      <div class="result-container" *ngIf="extractedVisible && lastExtractedData">
+        <h2>Parsed Resume Data</h2>
+        <div class="json-display">
+          <pre>{{ lastExtractedData?.content | json }}</pre>
+        </div>
+        <button class="download-btn" (click)="handleDownloadRequest()">
+          Download Resume Data
+        </button>
+      </div>
+    </main>
+</div>
