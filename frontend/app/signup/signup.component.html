@@ -1,0 +1,51 @@
+<div class="auth-container">
+  <div class="auth-box">
+    <h2>Sign Up</h2>
+    <form #signupForm="ngForm" (ngSubmit)="signup()">
+      <div class="form-group">
+        <input 
+          type="email" 
+          [(ngModel)]="email" 
+          name="email"
+          placeholder="Email" 
+          required
+          email
+          #emailInput="ngModel"
+        />
+        <div class="error-message" *ngIf="emailInput.invalid && emailInput.touched">
+          Please enter a valid email address
+        </div>
+      </div>
+      <div class="form-group">
+        <input 
+          type="password" 
+          [(ngModel)]="password" 
+          name="password"
+          placeholder="Password" 
+          required
+          minlength="6"
+          #passwordInput="ngModel"
+        />
+        <div class="error-message" *ngIf="passwordInput.invalid && passwordInput.touched">
+          Password must be at least 6 characters long
+        </div>
+      </div>
+      <div class="form-group">
+        <input 
+          type="password" 
+          [(ngModel)]="confirmPassword" 
+          name="confirmPassword"
+          placeholder="Confirm Password" 
+          required
+          #confirmPasswordInput="ngModel"
+        />
+      </div>
+      <button type="submit" [disabled]="signupForm.invalid">Sign Up</button>
+      <div class="auth-links">
+        <a routerLink="/login">Already have an account? Login</a>
+      </div>
+      <p class="error" *ngIf="errorMessage">{{ errorMessage }}</p>
+      <p class="success" *ngIf="successMessage">{{ successMessage }}</p>
+    </form>
+  </div>
+</div>
